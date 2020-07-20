@@ -1,0 +1,17 @@
+{
+     "criteria": {
+          "trigger": {
+               "trigger": "minecraft:tick"
+          }
+     },
+     "display": {
+          "announce_to_chat": false,
+          "description": "A chance that witches will spawn riding phantoms!",
+          "icon": {
+               "item": "minecraft:phantom_membrane"
+          },
+          "show_toast": false,
+          "title": "Phantom Jockeys"
+     },
+     "parent": "global:tsp"
+}
